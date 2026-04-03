@@ -1,4 +1,4 @@
-![Auto Analyst Logo](/auto-analyst-backend/images/auto-analyst%20logo.png)
+Link (https://www.firebird-technologies.com/p/building-auto-analyst-a-data-analytics)
 
 # Auto-Analyst — Your Open-Source AI Data Scientist
 
